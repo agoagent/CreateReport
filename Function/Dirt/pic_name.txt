@@ -1,0 +1,5 @@
+{
+	 "正面":"fornt_side"
+	,"反面":"back_side"
+	,"标签":"label"
+}
